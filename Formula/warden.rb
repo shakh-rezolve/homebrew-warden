@@ -2,9 +2,9 @@
 class Warden < Formula
   desc "Warden is a CLI utility for working with docker-compose environments"
   homepage "https://warden.dev"
-  version "0.13.1"
-  url "https://github.com/shakh-rezolve/warden/archive/0.13.1.tar.gz"
-  sha256 "87cdf98826a652f606ad0db4e3d5e2101b637420b43f0a9e14ea15da9484e0e1"
+  version "0.13.2"
+  url "https://github.com/shakh-rezolve/warden/archive/0.13.2.tar.gz"
+  sha256 "ba0bffb2d1e33dd453d57f75be3c0ffbeca1391db645beab23e2d31197e44dd8"
   head "https://github.com/shakh-rezolve/warden.git", :branch => "0.13.0-tag"
 
   def install
