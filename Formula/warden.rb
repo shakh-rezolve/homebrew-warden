@@ -4,7 +4,7 @@ class Warden < Formula
   homepage "https://warden.dev"
   version "0.14.1"
   url "https://github.com/shakh-rezolve/warden/archive/0.14.1.tar.gz"
-  sha256 "7530554eb5049322a4ccd0e3cad0a9afc2a8e4223af2d307d5620730364d9cb0"
+  sha256 "6a7ffd42a11657b42030aae83155a18b0eb09f8f22743b00403b4b1b5901705e"
   head "https://github.com/shakh-rezolve/warden.git", :branch => "0.14.1-tag"
 
   def install
